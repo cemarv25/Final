@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\Ejercicio III Final\Ejercicio III Final\bin\Debug\Ejercicio III Final.exe.config
+C:\Users\cesar\source\repos\Ejercicio III Final\Ejercicio III Final\bin\Debug\Ejercicio III Final.exe
+C:\Users\cesar\source\repos\Ejercicio III Final\Ejercicio III Final\bin\Debug\Ejercicio III Final.pdb
+C:\Users\cesar\source\repos\Ejercicio III Final\Ejercicio III Final\obj\Debug\Ejercicio III Final.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\Ejercicio III Final\Ejercicio III Final\obj\Debug\Ejercicio III Final.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Ejercicio III Final\Ejercicio III Final\obj\Debug\Ejercicio III Final.exe
+C:\Users\cesar\source\repos\Ejercicio III Final\Ejercicio III Final\obj\Debug\Ejercicio III Final.pdb
